@@ -18,3 +18,16 @@ O setor elétrico brasileiro é um sistema complexo que abrange a geração, tra
 O setor de energia elétrica vem passando por profundas transformações ao redor do mundo nos últimos anos, e isso também ocorre no Brasil. A busca pela descarbonização e neutralidade das emissões de gases do efeito estufa (GEE) tem pautado a transição energética para uma economia de baixo carbono. A descentralização e a digitalização são fenômenos que também estão moldando a transformação dos sistemas elétricos, junto com a descarbonização e com o novo papel dos consumidores, que estão se tornando cada vez mais ativos, produzindo sua própria energia, armazenando-a e gerindo seu perfil de consumo.
 
 esse contexto, o Brasil se encontra em uma posição privilegiada tanto pelo elevado patamar de utilização de fontes renováveis em sua matriz quanto pelo grande potencial de recursos energéticos disponíveis em seu território. Segundo dados do Operador Nacional do Sistema Elétrico (ONS) e Empresa de Pesquisa Energética (EPE), mais de 80% da capacidade instalada e da energia elétrica gerada são provenientes de fontes renováveis. 
+
+
+
+
+consumo de energia significa maior crescimento da atividade econômica? 
+dados e modelos econométricos
+O consumo de energia é um indicador do nível de atividade econômica
+pois o aumento do consumo de energia está associado ao o crescimento econômico.
+produção 
+comércio 
+investimento em infraestrutura
+
+uso de energia elétrica no país por meio dos dados da ONS.(operador nacional da energia elétrica) https://dados.ons.org.br/
